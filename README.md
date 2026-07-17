@@ -6,7 +6,7 @@
 
 💻 Passionate about **Software Development, Cloud Computing, Web Development, and Problem Solving**
 
-🌱 Currently learning **AWS, Docker, React, Node.js, Express.js, and MongoDB**
+🌱 Currently learning **AWS, Docker, React and Node.js**
 
 🎯 Goal: To become a Software Engineer and contribute to impactful projects.
 
